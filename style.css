@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  
+  background-color: blue;
+ height: 20px;
+margin: 20px;
+justify-content: center;
+align-items: center;
+padding: 35px;
+text-align: center;
+  
+}
+
+.header ul li{
+  display:inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  line-height: 26px;
+  color: #ffffff;
+
+}
